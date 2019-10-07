@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/giovanni.lopez/Projects/UserManage/UserManage.csproj": {}
+    "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/UserManage.csproj": {}
   },
   "projects": {
-    "/Users/giovanni.lopez/Projects/UserManage/UserManage.csproj": {
+    "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/UserManage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/giovanni.lopez/Projects/UserManage/UserManage.csproj",
+        "projectUniqueName": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/UserManage.csproj",
         "projectName": "UserManage",
-        "projectPath": "/Users/giovanni.lopez/Projects/UserManage/UserManage.csproj",
+        "projectPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/UserManage.csproj",
         "packagesPath": "/Users/giovanni.lopez/.nuget/packages/",
-        "outputPath": "/Users/giovanni.lopez/Projects/UserManage/obj/",
+        "outputPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/giovanni.lopez/.config/NuGet/NuGet.Config"
