@@ -1,0 +1,9 @@
+﻿@{
+    var message = TempData["Message"] as String;
+}
+@if (!String.IsNullOrEmpty(message))
+{
+    <h1>Gracias Carnal!</h1>
+    <p>@message</p>
+
+}

@@ -1,0 +1,27 @@
+﻿@model List<UserManage.Controllers.HomeController.theUser>;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <table class="table">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>eMail</th>
+            <th>Message</th>
+            <th>Phone</th>
+        </tr>
+        @foreach (var user in Model )
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+                <td>@user.Message</td>
+                <td>@user.Phone</td>
+            </tr>
+        }
+    </table>
+</div>
+
