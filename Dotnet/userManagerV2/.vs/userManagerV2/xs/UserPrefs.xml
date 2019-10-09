@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{0A72037F-8101-47EB-8B18-27FCB05F4494}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Controllers/Api/ApiHomeController.cs" Line="13" Column="52" />
+      <File FileName="Controllers/ContactController.cs" Line="31" Column="45" />
+      <File FileName="Views/Contact/Form.cshtml" Line="14" Column="26" />
+      <File FileName="Views/Contact/Thankyou.cshtml" Line="9" Column="2" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="29" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="userManagerV2" expanded="True">
+            <Node name="userManagerV2" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="Api" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Contact" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.userManagerV2 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

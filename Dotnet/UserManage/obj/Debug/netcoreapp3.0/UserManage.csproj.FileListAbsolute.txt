@@ -47,7 +47,6 @@
 /Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/bin/Debug/netcoreapp3.0/UserManage.pdb
 /Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/bin/Debug/netcoreapp3.0/UserManage.Views.dll
 /Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/bin/Debug/netcoreapp3.0/UserManage.Views.pdb
-/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/obj/Debug/netcoreapp3.0/UserManage.csprojAssemblyReference.cache
 /Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/obj/Debug/netcoreapp3.0/staticwebassets/UserManage.StaticWebAssets.Manifest.cache
 /Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/obj/Debug/netcoreapp3.0/staticwebassets/UserManage.StaticWebAssets.xml
 /Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/obj/Debug/netcoreapp3.0/UserManage.MvcApplicationPartsAssemblyInfo.cache
@@ -75,3 +74,4 @@
 /Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/obj/Debug/netcoreapp3.0/UserManage.dll
 /Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/obj/Debug/netcoreapp3.0/UserManage.pdb
 /Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/obj/Debug/netcoreapp3.0/UserManage.csproj.CopyComplete
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/UserManage/obj/Debug/netcoreapp3.0/UserManage.csprojAssemblyReference.cache

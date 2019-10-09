@@ -50,9 +50,9 @@ namespace UserManage
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllerRoute(
-                    name: "ApiHome",
-                    pattern: "{controller=ApiHome}/{action=CreateUser}/{id?}");
+                //endpoints.MapControllerRoute(
+                //    name: "ApiHome",
+                //    pattern: "{controller=ApiHome}/{action=CreateUser}/{id?}");
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

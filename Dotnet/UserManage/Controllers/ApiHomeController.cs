@@ -12,6 +12,7 @@ namespace UserManage.Controllers
     public class ApiHomeController : Controller
     {
         [HttpPost]
+        //[Route("api/[controler]/[action]")]
         public ActionResult<User> CreateUser([FromBody]User user)
         {
             if (!ModelState.IsValid)
