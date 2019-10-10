@@ -5,26 +5,26 @@ namespace userManagerV2.Models
 {
     public class User
     {
-        public int Id { get; set; }
+        public int id { get; set; }
 
         [Required]
-        public String Name { get; set; }
+        public String name { get; set; }
 
         [Display(Name = "Email address")]
         [Required(ErrorMessage = "The email address is required")]
         [EmailAddress(ErrorMessage = "Invalid Email Address")]
-        public String Email { get; set; }
+        public String email { get; set; }
 
         [Required]
-        [StringLength(10)]
+        [StringLength(100)]
         //[MaxLength(10)]
-        public String Message { get; set; }
+        public String message { get; set; }
 
         [Required]
         [Phone]
         [Display(Name = "Cell Phone")]
         [StringLength(13, MinimumLength = 10)]
-        public String Phone { get; set; }
+        public String phone { get; set; }
 
     }
 }

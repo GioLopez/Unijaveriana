@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/userManagerV2/userManagerV2.csproj": {}
+    "/Users/oO/Project/Unijaveriana/Dotnet/userManagerV2/userManagerV2.csproj": {}
   },
   "projects": {
-    "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/userManagerV2/userManagerV2.csproj": {
+    "/Users/oO/Project/Unijaveriana/Dotnet/userManagerV2/userManagerV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/userManagerV2/userManagerV2.csproj",
+        "projectUniqueName": "/Users/oO/Project/Unijaveriana/Dotnet/userManagerV2/userManagerV2.csproj",
         "projectName": "userManagerV2",
-        "projectPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/userManagerV2/userManagerV2.csproj",
-        "packagesPath": "/Users/giovanni.lopez/.nuget/packages/",
-        "outputPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/userManagerV2/obj/",
+        "projectPath": "/Users/oO/Project/Unijaveriana/Dotnet/userManagerV2/userManagerV2.csproj",
+        "packagesPath": "/Users/oO/.nuget/packages/",
+        "outputPath": "/Users/oO/Project/Unijaveriana/Dotnet/userManagerV2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/giovanni.lopez/.config/NuGet/NuGet.Config"
+          "/Users/oO/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -35,6 +35,16 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

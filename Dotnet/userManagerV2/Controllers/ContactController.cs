@@ -23,13 +23,13 @@ namespace userManagerV2.Controllers
             {
                 return Thankyou(user);
             }
-            TempData["Message"] = user.Name;
+            TempData["Message"] = user.name;
             return Form();
         }
 
         private IActionResult Thankyou(User user)
         {
-            TempData["Message"] = user.Name;
+            TempData["Message"] = user.name;
             return View("Thankyou", user);
         }
     }
