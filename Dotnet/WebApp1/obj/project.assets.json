@@ -7288,19 +7288,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/oO/.nuget/packages/": {}
+    "/Users/giovanni.lopez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oO/Project/Unijaveriana/Dotnet/WebApp1/WebApp1.csproj",
+      "projectUniqueName": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp1/WebApp1.csproj",
       "projectName": "WebApp1",
-      "projectPath": "/Users/oO/Project/Unijaveriana/Dotnet/WebApp1/WebApp1.csproj",
-      "packagesPath": "/Users/oO/.nuget/packages/",
-      "outputPath": "/Users/oO/Project/Unijaveriana/Dotnet/WebApp1/obj/",
+      "projectPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp1/WebApp1.csproj",
+      "packagesPath": "/Users/giovanni.lopez/.nuget/packages/",
+      "outputPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/oO/.config/NuGet/NuGet.Config"
+        "/Users/giovanni.lopez/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"

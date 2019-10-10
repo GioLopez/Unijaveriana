@@ -1,0 +1,58 @@
+﻿@model WebApp1.Models.User
+@{
+    var message = TempData["Message"] as String;
+}
+
+@if (!String.IsNullOrEmpty(message))
+{
+    <div class="alert alert-dismissible alert-success">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+        <p>@message</p>
+    </div>
+}
+<div class="text-center">
+    <form asp-action="CreateUser">
+        <div class="form-horizontal">
+            <h4>User</h4>
+            <hr />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="name" class="control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="name" class="form-control" />
+                    <span asp-validation-for="name" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="email" class="control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="email" class="form-control" />
+                    <span asp-validation-for="email" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="message" class="control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="message" type="text" class="form-control" />
+                    <span asp-validation-for="message" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="phone" class="control-label"></label>
+                <div class="col-md-10">
+                    <input asp-for="phone" class="form-control" />
+                    <span asp-validation-for="phone" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset2 col-md-10">
+                    <input  type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

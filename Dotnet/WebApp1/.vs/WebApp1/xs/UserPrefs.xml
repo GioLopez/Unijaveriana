@@ -1,19 +1,25 @@
 ﻿<Properties StartupConfiguration="{0DDFF7C6-DD74-47D0-A69F-23760D09526F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
     <Files>
-      <File FileName="Startup.cs" Line="28" Column="38" />
+      <File FileName="Controllers/HomeController.cs" Line="8" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="WebApp1" expanded="True" selected="True">
+          <Node name="WebApp1" expanded="True">
             <Node name="WebApp1" expanded="True">
               <Node name="Areas" expanded="True">
                 <Node name="Identity" expanded="True">
                   <Node name="Pages" expanded="True" />
                 </Node>
               </Node>
-              <Node name="Data" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="Api" expanded="True" />
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Contact" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
