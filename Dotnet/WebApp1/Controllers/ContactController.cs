@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using WebApp1.Models;
 
@@ -10,6 +11,7 @@ using WebApp1.Models;
 namespace WebApp1.Controllers
 {
     //[Route("[controller]/[action]")]
+    [Authorize]
     public class ContactController : Controller
     {
         public IActionResult Form()
@@ -23,8 +25,7 @@ namespace WebApp1.Controllers
             {
                 return Thankyou(user);
             }
-            TempData["Message"] = user.name;
-            return Form();
+            return View("Form");
         }
 
         private IActionResult Thankyou(User user)
