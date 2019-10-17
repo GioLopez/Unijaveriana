@@ -26,5 +26,10 @@ namespace WebApp2Test
             int actual = price.ApplyDiscount(2000, 50);
             Assert.Equal(expected, actual);
         }
+
+        public void Test3()
+        {
+
+        }
     }
 }
