@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp2", "WebApp2\WebApp2.csproj", "{32B1DDCD-F578-4D75-95CE-4B2A84236975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core-app", "Core-app\Core-app.csproj", "{1617FA67-D984-4C75-BCD2-78C7F3E605A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp2Test", "WebApp2Test\WebApp2Test.csproj", "{6BF773FF-7E0E-4BB4-9E90-B2D9171D62BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B1DDCD-F578-4D75-95CE-4B2A84236975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B1DDCD-F578-4D75-95CE-4B2A84236975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B1DDCD-F578-4D75-95CE-4B2A84236975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B1DDCD-F578-4D75-95CE-4B2A84236975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1617FA67-D984-4C75-BCD2-78C7F3E605A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1617FA67-D984-4C75-BCD2-78C7F3E605A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1617FA67-D984-4C75-BCD2-78C7F3E605A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1617FA67-D984-4C75-BCD2-78C7F3E605A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF773FF-7E0E-4BB4-9E90-B2D9171D62BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF773FF-7E0E-4BB4-9E90-B2D9171D62BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF773FF-7E0E-4BB4-9E90-B2D9171D62BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF773FF-7E0E-4BB4-9E90-B2D9171D62BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/obj/Debug/netcoreapp3.0/WebApp3.csprojAssemblyReference.cache
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/obj/Debug/netcoreapp3.0/staticwebassets/WebApp3.StaticWebAssets.Manifest.cache
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/obj/Debug/netcoreapp3.0/staticwebassets/WebApp3.StaticWebAssets.xml
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/obj/Debug/netcoreapp3.0/WebApp3.MvcApplicationPartsAssemblyInfo.cs
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/obj/Debug/netcoreapp3.0/WebApp3.MvcApplicationPartsAssemblyInfo.cache
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/obj/Debug/netcoreapp3.0/WebApp3.RazorAssemblyInfo.cache
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/obj/Debug/netcoreapp3.0/WebApp3.RazorAssemblyInfo.cs
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/obj/Debug/netcoreapp3.0/WebApp3.AssemblyInfoInputs.cache
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/obj/Debug/netcoreapp3.0/WebApp3.AssemblyInfo.cs

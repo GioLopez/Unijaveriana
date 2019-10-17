@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E293C464-F6B9-48DB-B1F4-6FC6F2511A11}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppTest/ApplicationTest.cs">
+    <Files>
+      <File FileName="BussinesLogic/Price.cs" Line="13" Column="1" />
+      <File FileName="AppTest/ApplicationTest.cs" Line="2" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApp3" expanded="True" selected="True">
+            <Node name="AppTest" expanded="True" />
+            <Node name="BussinesLogic" expanded="True" />
+            <Node name="WebApp3" expanded="True">
+              <Node name="AppTest" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AppTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

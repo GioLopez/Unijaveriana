@@ -1,0 +1,8 @@
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/BussinesLogic/bin/Debug/netcoreapp3.0/BussinesLogic.deps.json
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/BussinesLogic/bin/Debug/netcoreapp3.0/BussinesLogic.dll
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/BussinesLogic/bin/Debug/netcoreapp3.0/BussinesLogic.pdb
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/BussinesLogic/obj/Debug/netcoreapp3.0/BussinesLogic.csprojAssemblyReference.cache
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/BussinesLogic/obj/Debug/netcoreapp3.0/BussinesLogic.AssemblyInfoInputs.cache
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/BussinesLogic/obj/Debug/netcoreapp3.0/BussinesLogic.AssemblyInfo.cs
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/BussinesLogic/obj/Debug/netcoreapp3.0/BussinesLogic.dll
+/Users/oO/Project/Unijaveriana/Dotnet/WebApp3/BussinesLogic/obj/Debug/netcoreapp3.0/BussinesLogic.pdb

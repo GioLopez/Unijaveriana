@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Gio0/Project/Unijaveriana/Dotnet/WebApp1/WebApp1.csproj": {}
+    "/Users/oO/Project/Unijaveriana/Dotnet/WebApp1/WebApp1.csproj": {}
   },
   "projects": {
-    "/Users/Gio0/Project/Unijaveriana/Dotnet/WebApp1/WebApp1.csproj": {
+    "/Users/oO/Project/Unijaveriana/Dotnet/WebApp1/WebApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Gio0/Project/Unijaveriana/Dotnet/WebApp1/WebApp1.csproj",
+        "projectUniqueName": "/Users/oO/Project/Unijaveriana/Dotnet/WebApp1/WebApp1.csproj",
         "projectName": "WebApp1",
-        "projectPath": "/Users/Gio0/Project/Unijaveriana/Dotnet/WebApp1/WebApp1.csproj",
-        "packagesPath": "/Users/Gio0/.nuget/packages/",
-        "outputPath": "/Users/Gio0/Project/Unijaveriana/Dotnet/WebApp1/obj/",
+        "projectPath": "/Users/oO/Project/Unijaveriana/Dotnet/WebApp1/WebApp1.csproj",
+        "packagesPath": "/Users/oO/.nuget/packages/",
+        "outputPath": "/Users/oO/Project/Unijaveriana/Dotnet/WebApp1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/Gio0/.config/NuGet/NuGet.Config"
+          "/Users/oO/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
