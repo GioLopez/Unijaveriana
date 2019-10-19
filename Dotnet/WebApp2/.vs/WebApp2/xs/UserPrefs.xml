@@ -1,10 +1,8 @@
 ﻿<Properties StartupConfiguration="{32B1DDCD-F578-4D75-95CE-4B2A84236975}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="WebApp2Test/CoreTest.cs">
     <Files>
-      <File FileName="WebApp2/Startup.cs" Line="52" Column="15" />
-      <File FileName="WebApp2/Controllers/ApiController.cs" Line="16" Column="37" />
-      <File FileName="Core-app/ProductPrice.cs" Line="36" Column="10" />
-      <File FileName="WebApp2Test/CoreTest.cs" Line="1" Column="1" />
+      <File FileName="WebApp2Test/CoreTest.cs" Line="47" Column="6" />
+      <File FileName="WebApp2/Controllers/ApiController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,6 +11,9 @@
             <Node name="Core-app" expanded="True" />
             <Node name="WebApp2" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True" />
+              </Node>
             </Node>
             <Node name="WebApp2Test" expanded="True">
               <Node name="CoreTest.cs" selected="True" />
@@ -22,7 +23,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Core-app FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.WebApp2 PreferredExecutionTarget="/Applications/Safari.app" />

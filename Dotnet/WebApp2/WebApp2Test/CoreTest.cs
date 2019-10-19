@@ -1,11 +1,16 @@
 using System;
 using Xunit;
 using Core_app;
+using WebApp2.Controllers;
+using Microsoft.AspNetCore.Mvc;
+using System.Net;
 
 namespace WebApp2Test
 {
     public class CoreTest
     {
+        
+
         [Fact]
         public void Test1()
         {
@@ -27,9 +32,17 @@ namespace WebApp2Test
             Assert.Equal(expected, actual);
         }
 
-        public void Test3()
+        [Fact]
+        public async System.Threading.Tasks.Task HttpGetApiAsync()
         {
+            // Act
+            var the_contoller = new ApiController();
 
+            var result = the_contoller.Get();
+
+            // Assert
+            //Assert.IsType<OkObjectResult>(okResult);
+            Assert.IsType<OkObjectResult>(result);
         }
     }
 }

@@ -6,3 +6,11 @@
 /Users/oO/Project/Unijaveriana/Dotnet/WebApp2/Core-app/obj/Debug/netcoreapp3.0/Core-app.AssemblyInfo.cs
 /Users/oO/Project/Unijaveriana/Dotnet/WebApp2/Core-app/obj/Debug/netcoreapp3.0/Core-app.dll
 /Users/oO/Project/Unijaveriana/Dotnet/WebApp2/Core-app/obj/Debug/netcoreapp3.0/Core-app.pdb
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/Core-app/bin/Debug/netcoreapp3.0/Core-app.deps.json
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/Core-app/bin/Debug/netcoreapp3.0/Core-app.dll
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/Core-app/bin/Debug/netcoreapp3.0/Core-app.pdb
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/Core-app/obj/Debug/netcoreapp3.0/Core-app.csprojAssemblyReference.cache
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/Core-app/obj/Debug/netcoreapp3.0/Core-app.AssemblyInfoInputs.cache
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/Core-app/obj/Debug/netcoreapp3.0/Core-app.AssemblyInfo.cs
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/Core-app/obj/Debug/netcoreapp3.0/Core-app.dll
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/Core-app/obj/Debug/netcoreapp3.0/Core-app.pdb

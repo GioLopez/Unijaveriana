@@ -6615,19 +6615,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/oO/.nuget/packages/": {}
+    "/Users/giovanni.lopez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oO/Project/Unijaveriana/Dotnet/WebApp2/WebApp2Test/WebApp2Test.csproj",
+      "projectUniqueName": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/WebApp2Test/WebApp2Test.csproj",
       "projectName": "WebApp2Test",
-      "projectPath": "/Users/oO/Project/Unijaveriana/Dotnet/WebApp2/WebApp2Test/WebApp2Test.csproj",
-      "packagesPath": "/Users/oO/.nuget/packages/",
-      "outputPath": "/Users/oO/Project/Unijaveriana/Dotnet/WebApp2/WebApp2Test/obj/",
+      "projectPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/WebApp2Test/WebApp2Test.csproj",
+      "packagesPath": "/Users/giovanni.lopez/.nuget/packages/",
+      "outputPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/WebApp2Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/oO/.nuget/NuGet/NuGet.Config"
+        "/Users/giovanni.lopez/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -6638,11 +6638,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/Users/oO/Project/Unijaveriana/Dotnet/WebApp2/Core-app/Core-app.csproj": {
-              "projectPath": "/Users/oO/Project/Unijaveriana/Dotnet/WebApp2/Core-app/Core-app.csproj"
+            "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/Core-app/Core-app.csproj": {
+              "projectPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/Core-app/Core-app.csproj"
             },
-            "/Users/oO/Project/Unijaveriana/Dotnet/WebApp2/WebApp2/WebApp2.csproj": {
-              "projectPath": "/Users/oO/Project/Unijaveriana/Dotnet/WebApp2/WebApp2/WebApp2.csproj"
+            "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/WebApp2/WebApp2.csproj": {
+              "projectPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/WebApp2/WebApp2/WebApp2.csproj"
             }
           }
         }

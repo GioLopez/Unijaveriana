@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using WepAppMVC.Models;
 
-namespace WepAppMVC.Controllers
+namespace WebApp2.Controllers
 {
     public class HomeController : Controller
     {
