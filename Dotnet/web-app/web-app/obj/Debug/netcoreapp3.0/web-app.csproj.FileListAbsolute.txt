@@ -1,0 +1,8 @@
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/web-app/bin/Debug/netcoreapp3.0/web-app.deps.json
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/web-app/bin/Debug/netcoreapp3.0/web-app.dll
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/web-app/bin/Debug/netcoreapp3.0/web-app.pdb
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/web-app/obj/Debug/netcoreapp3.0/web-app.csprojAssemblyReference.cache
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/web-app/obj/Debug/netcoreapp3.0/web-app.AssemblyInfoInputs.cache
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/web-app/obj/Debug/netcoreapp3.0/web-app.AssemblyInfo.cs
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/web-app/obj/Debug/netcoreapp3.0/web-app.dll
+/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/web-app/obj/Debug/netcoreapp3.0/web-app.pdb
