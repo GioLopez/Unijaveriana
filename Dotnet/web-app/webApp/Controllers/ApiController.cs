@@ -9,20 +9,43 @@ using webApp.Models;
 
 namespace webApp.Controllers
 {
+
     public class ApiController : Controller
     {
 
-
         [HttpGet]
-        public IActionResult UserInfo()
+        public IActionResult UserInfo(int id)
         {
-            return Ok("Done!\n");
+            
+            var output = Sqlconnection.LoadUsers(id).ToList();
+            
+            if (output.Count() == 0)
+            {
+                return NotFound();
+            }
+
+            return Ok(output);
         }
 
         [HttpPost]
-        public User UserInfo([FromBody]User user)
+        public IActionResult UserInfo([FromBody]User user)
         {
-            return user;
+            if (!ModelState.IsValid) {
+                return BadRequest(ModelState);
+            }
+
+            var executed = Sqlconnection.SaveUser(user);
+            if (executed)
+            {
+                return Ok();
+            }else {
+                return BadRequest();
+            }
+        }
+
+        private IActionResult CreatedResult(string v)
+        {
+            throw new NotImplementedException();
         }
     }
 }

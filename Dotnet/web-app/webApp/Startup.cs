@@ -62,7 +62,7 @@ namespace webApp
             {
                 endpoints.MapControllerRoute(
                     name: "defaults",
-                    pattern: "{controller=Api}/{action=Index}/{id?}");
+                    pattern: "{controller=Api}/{action=UserInfo}/{id?}");
                 endpoints.MapRazorPages();
             });
         }

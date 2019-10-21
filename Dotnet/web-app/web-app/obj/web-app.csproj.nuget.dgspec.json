@@ -24,7 +24,11 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/webApp/webApp.csproj": {
+                "projectPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/webApp/webApp.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -35,6 +39,12 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -46,6 +56,89 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/webApp/webApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/webApp/webApp.csproj",
+        "projectName": "webApp",
+        "projectPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/webApp/webApp.csproj",
+        "packagesPath": "/Users/giovanni.lopez/.nuget/packages/",
+        "outputPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/webApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/giovanni.lopez/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

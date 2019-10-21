@@ -14,7 +14,7 @@
         "outputPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/webApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/giovanni.lopez/.nuget/NuGet/NuGet.Config"
+          "/Users/giovanni.lopez/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -36,6 +36,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -55,6 +59,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.6.0, )"
             }
           },
           "imports": [
@@ -89,7 +97,7 @@
         "outputPath": "/Users/giovanni.lopez/Projects/Dotnet/Unijaveriana/Dotnet/web-app/webAppTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/giovanni.lopez/.nuget/NuGet/NuGet.Config"
+          "/Users/giovanni.lopez/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"

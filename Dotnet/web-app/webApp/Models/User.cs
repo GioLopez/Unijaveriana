@@ -12,6 +12,7 @@ namespace webApp.Models
         public String Name { get; set; }
 
         [Required]
+        [EmailAddress]
         public String Email { get; set; }
 
 

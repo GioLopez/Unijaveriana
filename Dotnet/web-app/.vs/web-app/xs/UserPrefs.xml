@@ -1,28 +1,29 @@
 ﻿<Properties StartupConfiguration="{B11C2B92-E884-469D-AA71-7B620253B2F2}|Default">
   <MonoDevelop.Ide.ItemProperties.webApp PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="webApp/Models/User.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="webApp/Views/Contact/Thankyou.cshtml">
     <Files>
-      <File FileName="web-app/Class1.cs" Line="1" Column="1" />
-      <File FileName="webAppTest/UnitTest1.cs" Line="25" Column="1" />
-      <File FileName="webApp/Startup.cs" Line="30" Column="51" />
-      <File FileName="webApp/Controllers/ApiController.cs" Line="4" Column="30" />
-      <File FileName="webApp/Models/User.cs" Line="24" Column="1" />
-      <File FileName="webApp/Data/ApplicationDbContext.cs" Line="8" Column="2" />
+      <File FileName="webApp/Controllers/ApiController.cs" Line="39" Column="14" />
+      <File FileName="webApp/Controllers/ContactController.cs" Line="29" Column="43" />
+      <File FileName="webApp/Views/Contact/Form.cshtml" Line="6" Column="1" />
+      <File FileName="webApp/Views/Contact/Thankyou.cshtml" Line="3" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="web-app" expanded="True">
             <Node name="webApp" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="User.cs" selected="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Contact" expanded="True">
+                  <Node name="Thankyou.cshtml" selected="True" />
+                </Node>
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
               </Node>
             </Node>
-            <Node name="web-app" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-            </Node>
+            <Node name="web-app" expanded="True" />
             <Node name="webAppTest" expanded="True" />
           </Node>
         </State>
